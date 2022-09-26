@@ -13,7 +13,7 @@ James Webb Photography
 
 ## Credits
 
-TODO: Grace Gesalan
+Grace Gesalan
 
 ## License
 
